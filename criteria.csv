@@ -1,0 +1,4 @@
+words,caseSensitive,fuzzyMatch
+gnome,TRUE,FALSE
+garden,FALSE,TRUE
+paving stone,FALSE,FALSE
